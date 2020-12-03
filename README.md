@@ -1,4 +1,4 @@
-# G-Bomber  BomMaiL  EmBomber  EBomber  GBomber
+# G-Bomber EmBomber EBomber GBomber
 G-Bomber is a Gmail Bombing or Email Bomber Python Script that can send Unlimited Emails direct into Inbox.
 First time Github ON All in One Email Bombing Python Script is Here Available on by israfilarnaout.
 
