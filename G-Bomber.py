@@ -24,7 +24,7 @@ if len(sys.argv) < 2:
 | (___) |      | )___) )| (___) || )   ( || )___) )| (____/\| ) \ \__
 (_______)      |/ \___/ (_______)|/     \||/ \___/ (_______/|/   \__/                                                                                                                                                                                                                                                                                                                                                                                                                                          
 """  + END+BLUE+'G-Bomber'.format(RED, END).center(69) +
-    '\n' + '\tCreated:{}Israfil Arnaout'.format(YELLOW, RED, YELLOW, BLUE).center(76) +
+    '\n' + '\tCreated:{}I͏S͏R͏ΛF͏I͏L͏ KHΛN'.format(YELLOW, RED, YELLOW, BLUE).center(76) +
     '\n' + '\tVersion: {}2.0{}\n'.format(YELLOW, END).center(80) + '\n')
 else:
     sys.exit('Usage: python G-Bomber.py')
